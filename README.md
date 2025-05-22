@@ -95,15 +95,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-### ✅ To Add it to Your Repo:
 
-1. Create the file:
-   ```bash
-   touch README.md
-Paste the content above
-
-Commit and push:
-
-git add README.md
-git commit -m "Add professional README"
-git push
